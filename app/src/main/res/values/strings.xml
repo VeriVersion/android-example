@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VeriVersion Android Example</string>
+    <string name="main_intro">Thank you for checking out VeriVersion Android Example!\nJust type some text and click the button.\nThe text and the current version will appear bellow the button.</string>
+    <string name="main_hint">Type test</string>
+    <string name="main_button">Click Me</string>
+    <string name="main_demo_resource">Demo version 1</string>
+</resources>
