@@ -6,12 +6,13 @@ buildscript {
         google()
         jcenter()
         maven {
-            url uri('https://client.veriversion.com/res/plugins/gradle/')
+//            url uri('https://client.veriversion.com/res/plugins/gradle/')
+            url uri('/Users/fox/Documents/Projects/veribuild/repo')
         }
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.1'
-        classpath 'com.veriversion:buildrollback:1.1.7-beta'
+        classpath 'com.veriversion:buildrollback:1.2.2-beta'
     }
 }
 
