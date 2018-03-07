@@ -22,5 +22,6 @@ public class MainActivity extends Activity {
             }
         });
         ((TextView) findViewById(R.id.main_demo_version)).setText(R.string.main_demo_resource);
+//        throw new RuntimeException("Boom!");
     }
 }
